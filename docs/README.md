@@ -1,4 +1,5 @@
 # Introduction
+[![Netlify Status](https://api.netlify.com/api/v1/badges/652cf8d8-2e7a-46cb-9752-b46ac2bcce26/deploy-status)](https://app.netlify.com/sites/siterack-docs/deploys)
 
 ## What is Siterack?
 **Siterack is a management tool for WordPress websites, designed for use by freelance developers, digitial agencies, and hosting companies.**
