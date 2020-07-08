@@ -33,9 +33,9 @@ if status == 200:
 
 ```
 
-While this ensures that your site is alive and running, Siterack takes it a step furthure and tries to determine what kinds of errors are causing downtime.
+While this ensures that your site is alive and running, Siterack takes it a step further and tries to determine what kinds of errors are causing downtime.
 
-When downtime occures, Siterack continues to monitor the sites's status and sends an alert via either email or Slack.
+When downtime ocures, Siterack continues to monitor the sites's status and sends an alert via either email or Slack.
 
 #### Slack alert example:
 
@@ -67,16 +67,16 @@ Upon completion, Siterack will let you know via either email or Slack.
 
 If allowed, Siterack will automatically check for and run updates on your website's plugins, themes, and WordPress core. This feature can be disabeled in the site's Control Center. 
 
-To ensure the safetly of your site, Siterack performs these updates by first running a backup of the entire site. Next, Siterack checks for any <a href="#exclude-packages">blacklisted</a> packages and excludes them from the updates. Siterack then proceedes to incrementally update each package (theme, plugin, or core) while scanning your site for any failures using our <a href="#a-i-error-detection">A.I. Error Detection</a> system. 
+To ensure the safety of your site, Siterack performs these updates by first running a backup of the entire site. Next, Siterack checks for any <a href="#exclude-packages">blacklisted</a> packages and excludes them from the updates. Siterack then proceeds to incrementally update each package (theme, plugin, or core) while scanning your site for any failures using our <a href="#a-i-error-detection">A.I. Error Detection</a> system. 
 
-If Sitrack detects any problems, it immediately terminates the update process and attempts to restore your site using the most recent backup - i.e. the one made just a few minutes before. If this occurs, you will recieve a email or Slack alert to let you and your team know. 
+If Sitrack detects any problems, it immediately terminates the update process and attempts to restore your site using the most recent backup - i.e. the one made just a few minutes before. If this occurs, you will recieve an email or Slack alert to let you and your team know. 
 
 > <img src="https://storage-siterack.sfo2.cdn.digitaloceanspaces.com/static/dashboard/img/illustrations/update_conflict.png" style="width: auto;"></img>
 
 
 #### Exclude Packages 
 
-To allow for felxibilty, Siterack allows the user to determine which plugins to update and which to keep at their present configuration. To blacklist a plugin or theme, simply navigate the the site's Control Center, scroll to 'Plugins | Themes | Excluded' and click 'Exclude' under each package.
+To allow for felxibilty, Siterack allows the user to determine which plugins to update and which to keep at their present configuration. To blacklist a plugin or theme, simply navigate to the site's Control Center, scroll to 'Plugins | Themes | Excluded' and click 'Exclude' under each package.
 
 > <img src="https://storage-siterack.sfo2.cdn.digitaloceanspaces.com/static/dashboard/img/illustrations/blacklist.png" style="width: 25rem;"></img>
 
@@ -118,7 +118,7 @@ def sigmoid_derivative(x):
 
 ## Malware Scans
 
-Like most other features, Siterack's Malware Engine runs daily in the background - automatically. Upon the arrival of a new backup, Siterack will make a copy, send the package to the Malware Engine, dissect and sacn the files and databases, remove any found malware, record the instances, then compress the clean package and send it to secure, remote storage. 
+Like most other features, Siterack's Malware Engine runs daily in the background - automatically. Upon the arrival of a new backup, Siterack will make a copy, send the package to the Malware Engine, dissect and scan the files and databases, remove any found malware, record the instances, then compress the clean package and send it to secure, remote storage. 
 
 Once completed, you will see two versions of the same backup in your backup dashboard. The scanned version will be noted by the `_clean` tag attached to the end of the filename. 
 

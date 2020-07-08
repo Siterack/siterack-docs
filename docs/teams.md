@@ -3,7 +3,7 @@
 ## Overview
 **Teams are like channels in Slack. For enterprise accounts, you can have as many teams as you want.**
 
-Teams are where the work happens. So, in order to list a site or create a job you must either create a team or join an existing team. 
+Teams are where the work happens. So, in order to list a site or create a job, you must either create a team or join an existing team. 
 
 ### How To's
 
@@ -13,13 +13,13 @@ Teams are where the work happens. So, in order to list a site or create a job yo
 
 ## Create a team
 
-In order to create a team, you must first be authentiated with an eixiting organization. If you are not the organization admin, then you likely revieved a temporaty invite link. 
+In order to create a team, you must first be authenticated with an eixiting organization. If you are not the organization admin, then you likely received a temporary invite link. 
 
 Once authenticated, you can navigate to the 'Teams' tab on the side-bar, then click 'New Team'. 
 
 > <img src="https://storage-siterack.sfo2.cdn.digitaloceanspaces.com/static/dashboard/img/illustrations/new_team.png" style="width: 30rem;"></img>
 
-Give you team a name - preferably, something unique  :unicorn: Then click 'Add'.
+Give your team a name - preferably, something unique  :unicorn: Then click 'Add'.
 
 Now you will notice that you are logged into your team and have a shareable link to add new members. 
 
@@ -35,7 +35,7 @@ For security pusposes, users are not permited to 'request access' to a team. The
 
 ## Add Slack
 
-Once you've created new team you will have the option to connect your team with a Slack account. 
+Once you've created a new team you will have the option to connect your team with a Slack account. 
 
 To begin the connection, simply click the 'Add to Slack' button on your team page. 
 
