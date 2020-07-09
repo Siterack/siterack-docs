@@ -195,9 +195,9 @@ Oh yeah, and the reports look pretty good... (if we do say so ourselves :wink:)
 
 ## White labeling
 
-As expected the entire Siterack Engine is a white-labeled-ready product. You are free to use the software as a resellable service to your clients and customers - no copyright issues! 
+As expected, the entire Siterack Engine is a white-labeled-ready product. You are free to use the software as a resellable service to your clients and customers - no copyright issues! 
 
-Also, for each Client Report, your company name and logo will be displayed on the bottom left corner of the conver page.
+Also, for each Client Report, your company name and logo will be displayed on the bottom left corner of the cover page.
 
 ##### Logo and company name placement
 > <img src="https://storage-siterack.sfo2.cdn.digitaloceanspaces.com/static/dashboard/img/illustrations/white_labeling.png" style="width: auto;"></img>
