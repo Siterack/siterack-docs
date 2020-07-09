@@ -69,14 +69,14 @@ If allowed, Siterack will automatically check for and run updates on your websit
 
 To ensure the safety of your site, Siterack performs these updates by first running a backup of the entire site. Next, Siterack checks for any <a href="#exclude-packages">blacklisted</a> packages and excludes them from the updates. Siterack then proceeds to incrementally update each package (theme, plugin, or core) while scanning your site for any failures using our <a href="#a-i-error-detection">A.I. Error Detection</a> system. 
 
-If Sitrack detects any problems, it immediately terminates the update process and attempts to restore your site using the most recent backup - i.e. the one made just a few minutes before. If this occurs, you will recieve an email or Slack alert to let you and your team know. 
+If Sitrack detects any problems, it immediately terminates the update process and attempts to restore your site using the most recent backup - i.e. the one made just a few minutes before. If this occurs, you will receive an email or Slack alert to let you and your team know. 
 
 > <img src="https://storage-siterack.sfo2.cdn.digitaloceanspaces.com/static/dashboard/img/illustrations/update_conflict.png" style="width: auto;"></img>
 
 
 #### Exclude Packages 
 
-To allow for felxibilty, Siterack allows the user to determine which plugins to update and which to keep at their present configuration. To blacklist a plugin or theme, simply navigate to the site's Control Center, scroll to 'Plugins | Themes | Excluded' and click 'Exclude' under each package.
+To allow for flexibility, Siterack permits the user to determine which plugins to update and which to keep at their present configuration. To blacklist a plugin or theme, simply navigate to the site's Control Center, scroll to 'Plugins | Themes | Excluded' and click 'Exclude' under each package.
 
 > <img src="https://storage-siterack.sfo2.cdn.digitaloceanspaces.com/static/dashboard/img/illustrations/blacklist.png" style="width: 25rem;"></img>
 
