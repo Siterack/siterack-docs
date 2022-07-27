@@ -2,13 +2,13 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/652cf8d8-2e7a-46cb-9752-b46ac2bcce26/deploy-status)](https://app.netlify.com/sites/siterack-docs/deploys)
 
 ## What is SiteRack?
-**SiteRack is a management tool for WordPress websites, designed for use by web professionals with clients, digitial agencies, and hosting companies.**
+**SiteRack is a management tool for WordPress websites, designed for use by WebPros with clients, digitial agencies, and anyone managing their personal or business WordPress website.**
 
 We built SiteRack to simplify and automate the redundant, time-consuming tasks involved in professional WordPress website management.  
 
 We offer two versions of SiteRack:
--  **Web Professional**, for web professionals and digital agencies that just need the SiteRack tool to manage unlimited WordPress websites. 
--  **Managed**, for web professionals and digital agencies who are looking for a managed solution to do all of what Web Professional offers plus SiteRack provides the advanced web hosting and technical support. 
+-  **WebPro** - For web professionals and digital agencies that just need the SiteRack tool to manage unlimited WordPress websites. 
+-  **Managed** - For web professionals and digital agencies who are looking for a managed solution to do all of what WebPro offers plus SiteRack provides the advanced web hosting and technical support. 
 
 <!-- I have recorded a quick demo to show some of the features on Cronhub. 
 
