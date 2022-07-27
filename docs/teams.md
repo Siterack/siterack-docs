@@ -45,9 +45,9 @@ You will then be directed to Slack and asked which Workspace and channel you wan
 
 > <img src="https://storage-siterack.sfo2.cdn.digitaloceanspaces.com/static/dashboard/img/illustrations/slack_add.png" style="width: 30rem;"></img>
 
-After the pairing has finished, Slack will redirect you back to Siterack at which point you should login to the Slack Channel you integrated Siterack with and 'add' the Siterack app to the channel.
+After the pairing has finished, Slack will redirect you back to SiteRack at which point you should login to the Slack Channel you integrated SiteRack with and 'add' the SiteRack app to the channel.
 
-***NOTE: This step seems redundant but is necessary in order for Siterack to post in your channel.**
+***NOTE: This step seems redundant but is necessary in order for SiteRack to post in your channel.**
 
 > <img src="https://storage-siterack.sfo2.cdn.digitaloceanspaces.com/static/dashboard/img/illustrations/slack_channel.png" style="width: 35rem;"></img>
 
