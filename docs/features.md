@@ -46,7 +46,7 @@ When downtime ocures, SiteRack continues to monitor the sites's status and sends
 
 SiteRack automatically runs daily backups of all your sites and securely stores them in the cloud. To accomplish this, SiteRack integrates with the popular <a href="https://updraftplus.com/">Updraft Plus</a> plugin. 
 
-SiteRack will retain up to 30GB of storage for your backups per site and automatically remove old backups to make room for the new ones. All backups are made available in the site's Control Center.
+SiteRack will retain up to 90 days of backups with 30GB max limit on storage per site and automatically remove old backups to make room for the new ones. All backups are made available in the site's Control Center.
 
 #### Backup dashboard example:
 > <img src="https://storage-siterack.sfo2.cdn.digitaloceanspaces.com/static/dashboard/img/illustrations/backups.png" style="width: auto;"></img>
