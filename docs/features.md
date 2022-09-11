@@ -44,9 +44,9 @@ When downtime ocures, SiteRack continues to monitor the sites's status and sends
 
 ## Daily Backups
 
-SiteRack automatically runs daily backups of all your sites and securely stores them in the cloud. To accomplish this, SiteRack integrates with the popular <a href="https://updraftplus.com/">Updraft Plus</a> plugin. 
+Site Rack automatically runs daily backups of all your sites and securely stores them in the cloud. To accomplish this, Site Rack integrates with the popular <a href="https://updraftplus.com/">Updraft Plus</a> plugin. 
 
-SiteRack will retain up to 90 days of backups with 30GB max limit on storage per site and automatically remove old backups to make room for the new ones. All backups are made available in the site's Control Center.
+Site Rack will retain up to 60 days of backups per site and automatically remove old backups to make room for the new ones. All backups are made available in the site's Control Center.
 
 #### Backup dashboard example:
 > <img src="https://storage-siterack.sfo2.cdn.digitaloceanspaces.com/static/dashboard/img/illustrations/backups.png" style="width: auto;"></img>
@@ -54,9 +54,9 @@ SiteRack will retain up to 90 days of backups with 30GB max limit on storage per
 
 ## Restorations
 
-In order to run a restoration, simply choose a backup from the backup dashboard, then click 'Restore' and confirm the order. SiteRack will then deploy a worker to complete the restoration in the background while you carry on with other tasks. 
+In order to run a restoration, simply choose a backup from the backup dashboard, then click 'Restore' and confirm the order. Site Rack will then deploy a worker to complete the restoration in the background while you carry on with other tasks. 
 
-Upon completion, SiteRack will let you know via either email or Slack.
+Upon completion, Site Rack will let you know via either email or Slack.
 
 #### Slack alert example:
 > <img src="https://storage-siterack.sfo2.cdn.digitaloceanspaces.com/static/dashboard/img/illustrations/restore.png" style="width: auto;"></img>
